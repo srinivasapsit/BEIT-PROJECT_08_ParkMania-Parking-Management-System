@@ -1,5 +1,5 @@
 # Project Title 
- ParkMania: Parking Management System
+ ParkMania: The Parking Management System
 
 ## Group memebers
 [Srinivas Vishwanath](https://github.com/srinivasapsit)
