@@ -2,7 +2,8 @@
  ParkMania: Parking Management System
 
 ## Group memebers
-Srinivas Vishwanath & Saurabh Sharma
+[Srinivas Vishwanath](https://github.com/srinivasapsit)
+[Saurabh Sharma](https://github.com/saurabh1497)
 
 ## Brief Description 
 In this system we focus to eradicate the problem of improper vehicle parking and unavailability of parking area. For this very purpose we have built a booking application that helps book or pre-book the slots for users. This application contains three major features which are:
